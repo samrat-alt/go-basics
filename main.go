@@ -19,7 +19,7 @@ func main() {
 	// fmt.Printf("\tmy name is %s.\nmy age is %d", name, age)
 
 	names := []string{
-		"samrat", "sagar",
+		"samrat", "sagar", "mohit",
 	}
 
 	for i, value := range names {
